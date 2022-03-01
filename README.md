@@ -1,0 +1,3 @@
+# NetflixClone
+
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6ImFua2l0a2RldiIsInJlcG8xIjoiTmV0ZmxpeENsb25lIiwiaW5jbHVkZUxpbnQiOmZhbHNlLCJhdXRob3JJZCI6Mjk3MTYsImlhdCI6MTYyMDY0MDIwMn0.cTHuQmTne9vcDyTHN6ETT6EXuuSwJwaivLJ5hfa1jvY)](https://www.deepcode.ai/app/gh/ankitkdev/NetflixClone/_/dashboard?utm_content=gh%2Fankitkdev%2FNetflixClone)
